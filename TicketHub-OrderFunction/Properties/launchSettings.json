@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TicketHub_OrderFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7276",
+      "launchBrowser": false
+    }
+  }
+}
